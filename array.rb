@@ -20,5 +20,16 @@ puts attendance.unshift
 #receipt.shift prints out index[0] only 
 # attendance.unshift prints out the entire array starting from index[0]
 
+=Demonstrate Understand of index positions 
+Index can be used to extract variable from the array. For example,
+when can use index[0] to extract the first element in an array. 
+friends[0], income[0], receipt[0], attendance[0]
+We can also select more than one element from our arrays. For exmaple 
+friends[0,3] will select from zeroth element to the second element. Same strategy 
+applies for selecting from income, receipt, and attendance.
+=end 
+
+
+
 
 
