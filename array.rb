@@ -31,10 +31,10 @@ applies for selecting from income, receipt, and attendance.
 =end 
 
 # Add insert array method 
-put friends.insert("samson")
-put income.insert(400)
-put receipt.insert(99.9)
-put attendance.insert(false)
+puts friends.insert("samson")
+puts income.insert(400)
+puts receipt.insert(99.9)
+puts attendance.insert(false)
 
 = This array methos is used to insert new element 
 into our already created array. We can also use this 
